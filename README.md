@@ -28,7 +28,9 @@ This machine learning model clusters the world contries according with econ and 
 
 * Prediction is based on these costumers' attributes
 
+
 People
+
 	* `ID`: Customer's unique identifier
 	
 	* `Year_Birth`: Customer's birth year
@@ -64,7 +66,9 @@ Product
 	* `MntGoldProds`: Amount spent on gold in last 2 years
 	
 	* `Promotion`
+	
 Place
+
 	* `NumDealsPurchases`: Number of purchases made with a discount
 	
 	* `AcceptedCmp1`: 1 if customer accepted the offer in the 1st campaign, 0 otherwise
