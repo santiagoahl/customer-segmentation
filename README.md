@@ -108,7 +108,7 @@ To clone and run this application, follow these steps
 $ git clone https://github.com/santiagoahl/costumer-segmentation.git
 
 # Go into the repository
-$ cd ostumer-segmentation
+$ cd costumer-segmentation
 
 ```
 
