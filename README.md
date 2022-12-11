@@ -24,7 +24,7 @@
 
 ## Key Features
 
-This machine learning model clusters the world contries according with econ and social data. This prediction is one of 4 clusters. The dataset is taken from the [Customer Personality Analysis Kaggle Competition](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis). So here are the key features of this project:
+This machine learning model clusters a set of costumers from its personal data. This prediction is one of 3 clusters. The dataset is taken from the [Customer Personality Analysis Kaggle Competition](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis). So here are the key features of this project:
 
 * Prediction is based on these costumers' attributes
 
