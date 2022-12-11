@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Unsupervised Learning K Means Model to group costumer personality from its data. 
+<h4 align="center">Unsupervised Learning DBSCAN Model to group costumer personality from its data. 
 </h4>
 
 <p align="center">
