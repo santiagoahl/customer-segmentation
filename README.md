@@ -2,7 +2,7 @@
   <br>
 
   <br>
-  Costumer Segmentation
+  Customer Segmentation
   <br>
 </h1>
 
